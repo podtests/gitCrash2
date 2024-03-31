@@ -7,3 +7,5 @@ I teach FS SDET
 Today is Sunday
 
 we have Git class
+
+timeis 1 PM
